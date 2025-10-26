@@ -21,9 +21,8 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian-Chs&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Chs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Chs&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Chs&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact)
 
 
