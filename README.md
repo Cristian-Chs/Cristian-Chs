@@ -23,6 +23,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Chs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Chs&langs_count=8&show_icons=true&theme=dark&locale=en&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Chs&show_icons=true&theme=dark&locale=en&layout=compact)
